@@ -9,7 +9,7 @@ class App
  {
  x = 1/(float)k;
  sum = sum + x;
- System.out.println("value of x:" + x);
+ System.out.println("value of x:" + y);
  }
  System.out.println("sum:" +sum);
 }
