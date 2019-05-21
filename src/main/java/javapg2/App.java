@@ -12,5 +12,6 @@ class App
  System.out.println("value of x:" + x);
  }
  System.out.println("sum:" +sum);
+ }
 }
 }
